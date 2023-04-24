@@ -1,2 +1,2 @@
 # git_github_demo
- fundataments of git and github
+ Fundamentals of git and github
